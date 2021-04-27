@@ -1,0 +1,23 @@
+{
+  "name": "cypress-e2e-learn",
+  "version": "1.0.0",
+  "description": "n-to-n learn cypress",
+  "main": "\\",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "learn",
+    "learning",
+    "e2e",
+    "end-to-end"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.6.0",
+    "prettier": "^2.2.1"
+  }
+}
