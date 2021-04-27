@@ -7,5 +7,6 @@ describe('Searchbox Test', () => {
     })
     it('show search result page', () => {
         cy.get('h2').contains('Search Results:')
+        
     })
 })
